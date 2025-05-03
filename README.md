@@ -1,13 +1,11 @@
 
 
 
-
 𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀 
 
 
 📋Sobre mim
 Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 4 anos de experiência, tendo atuado em diversos projetos inclusive de forma simultânea. Ao longo desse período, pude desenvolver habilidades de organização, priorização e adaptação a diferentes contextos e demandas, sempre com foco em qualidade, colaboração e entrega de valor.
-
 
 
 📚 Curriculum
