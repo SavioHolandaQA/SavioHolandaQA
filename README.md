@@ -18,8 +18,8 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 🧪 Qualificações em QA
 ### Metodologias Ágeis
 <details> <summary>Ver opções</summary>
- - Kanban -
- - Scrum - </details>
+ Kanban p
+ Scrum  </details>
 ### Ferramentas de Comunicação Online
 <details> <summary>Ver opções</summary> - Microsoft Teams - Google Meet - Zoom </details>
 🛠️ Ferramentas para Testes
