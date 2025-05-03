@@ -19,7 +19,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### Metodologias Ágeis
 <details>
-  <summary>Ver opções</summary>
+  <summary>Ver</summary>
 
   - Kanban  
   - Scrum  
@@ -28,7 +28,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### Ferramentas de Comunicação Online
 <details>
-  <summary></summary>
+  <summary>Ver</summary>
 
   - Microsoft Teams  
   - Google Meet  
@@ -38,14 +38,12 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### 🛠️ Ferramentas para Testes
 <details>
-  <summary>Ver opções</summary>
+  <summary>Ver </summary>
 
   - Selenium WebDriver  
   - Cypress  
   - Playwright  
   - Robot Framework  
-  - TestCafé (em estudo)  
-  - CodeceptJS (em estudo)  
   - Maven  
   - Cucumber  
   - BrowserStack  
@@ -54,13 +52,26 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   - Postman  
   - Hoppscotch  
   - Insomnia  
-  - SuperTest  
-  - Wiremock (em estudo)  
-  - Rest Assured  
-  - Appium (em estudo)  
-  - Maestro (em estudo)  
-  - Barista (em estudo)  
-  - XCUITest (em estudo)  
+  - SuperTest    
+  - Rest Assured
+    
+  -📚 Em Estudo
+
+   🖥️ Web  
+  - TestCafé  
+  - CodeceptJS  
+
+    API  
+  - Wiremock  
+
+   📱 Mobile  
+  - Appium  
+  - Maestro  
+  - Barista  
+  - XCUITest  
+
+
+
 
 </details>
 
