@@ -20,10 +20,10 @@ Minha jornada como QA já soma mais de 04 anos, onde trabalhei:
 
 Empresa: Compasso Uol, onde fui o responsável pelo processo de qualidade em projetos de software em diversos projetos como, Vivo, Marfrig, Yamara consocios, Melissa Br e US, Brasif, Converse e Via scull e outros.
  
-Empresa: INxus, sendo responsável pela execução de testes manuais, automatizados, além da documentação de planos de testes, cenários e casos de testes, e relatórios de testes.
+Empresa: INxus, sendo responsável pela execução de testes manuais e automatizados, além da documentação de planos de testes, cenários e casos de testes, e relatórios de testes.
 
 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
-Graduação: Processos gerenciais (Estacio).
+Graduação: Processos gerenciais (Estácio).
 Pós-graduação: Engenharia de Software com ênfase em qualidade e teste de software (Unopar). Em andamento!
 
 
