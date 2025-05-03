@@ -1,5 +1,5 @@
 
-<h5> <span style="color: #0066cc; font-weight: bold;">Olá, Bem-vindo!! Eu sou Batman</span> </h5>
+
 
 <h3 style="color: #0066cc;">
   <span id="typing-text"></span>
