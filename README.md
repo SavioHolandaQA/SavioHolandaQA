@@ -55,7 +55,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   - SuperTest    
   - Rest Assured
     
-   ###📚 Em Estudo
+   ###📚 Em Estudo ###
      -- Web 🖥️
   - TestCafé  
   - CodeceptJS
