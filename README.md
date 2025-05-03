@@ -15,39 +15,140 @@ Empresa: Compasso Uol, onde fui o responsável pelo processo de qualidade em pro
  
 Empresa: INxus, sendo responsável pela execução de testes manuais e automatizados, além da documentação de planos de testes, cenários e casos de testes, e relatórios de testes.
 
-🧪 Qualificações em QA
+# 🧪 Qualificações em QA
+
 ### Metodologias Ágeis
-<details> <summary>Ver opções</summary>
- Kanban p
- Scrum  </details>
+<details>
+  <summary>Ver opções</summary>
+
+  - Kanban  
+  - Scrum  
+
+</details>
+
 ### Ferramentas de Comunicação Online
-<details> <summary>Ver opções</summary> - Microsoft Teams - Google Meet - Zoom </details>
-🛠️ Ferramentas para Testes
-<details> <summary>Ver opções</summary> - Selenium Webdriver - Cypress - Playwright - Robot Framework - TestCafé (em estudo) - CodeceptJS (em estudo) - Maven- Cucumber - Browserstack - JMeter - K6 - Postman - Hoppscotch - Insomnia - SuperTest - Wiremock (em estudo) - Rest assured - Appium (em estudo) - Maestro (em estudo)- Barista (em estudo) - XcUiTest (em estudo)  </details>
-🧹 Ferramentas para Análise Estática de Código
-<details> <summary>Ver opções</summary> - SonarQube </details>
-🗂️ Ferramentas para Gestão das Atividades de Teste
-<details> <summary>Ver opções</summary> - Trello - Jira - Asana </details>
-📝 Elaboração de Documentos da Qualidade
-<details> <summary>Ver opções</summary> - Plano de Testes - Cenários e Casos de Teste - Relatório de Bugs - Resultados dos Testes </details>
-🧾 Versionamento de Código
-<details> <summary>Ver opções</summary> - Noções básicas em comandos GIT (git add, git commit, git push, git status, git diff, git branch) </details>
-🔁 CI / CD (DevOps)
-<details> <summary>Ver opções</summary> - GitHub Actions - GitLab CI - Docker </details>
-💻 Linguagens de Programação
-<details> <summary>Ver opções</summary> - Java - TypeScript - JavaScript - Python </details>
-🗃️ Banco de Dados
-<details> <summary>Ver opções</summary> - Noções básicas em SQL para geração de massas de dados para testes - Uso da ferramenta DBeaver (bancos SQL, MySQL, PostgreSQL) </details>
+<details>
+  <summary>Ver opções</summary>
 
+  - Microsoft Teams  
+  - Google Meet  
+  - Zoom  
 
-👨‍💻Conhecimentos
-Metodologias Ágeis
-Ferramentas de Comunicação Online
-Ferramentas para Testes
-Ferramentas para Análise Estática de Código
-Ferramentas para Gestão das Atividades de Teste
-Elaboração de Documentos da Qualidade
-Versionamento de Código
-Linguagem de Programação
-Banco de Dados
+</details>
+
+### 🛠️ Ferramentas para Testes
+<details>
+  <summary>Ver opções</summary>
+
+  - Selenium WebDriver  
+  - Cypress  
+  - Playwright  
+  - Robot Framework  
+  - TestCafé (em estudo)  
+  - CodeceptJS (em estudo)  
+  - Maven  
+  - Cucumber  
+  - BrowserStack  
+  - JMeter  
+  - K6  
+  - Postman  
+  - Hoppscotch  
+  - Insomnia  
+  - SuperTest  
+  - Wiremock (em estudo)  
+  - Rest Assured  
+  - Appium (em estudo)  
+  - Maestro (em estudo)  
+  - Barista (em estudo)  
+  - XCUITest (em estudo)  
+
+</details>
+
+### 🧹 Ferramentas para Análise Estática de Código
+<details>
+  <summary>Ver opções</summary>
+
+  - SonarQube  
+
+</details>
+
+### 🗂️ Ferramentas para Gestão das Atividades de Teste
+<details>
+  <summary>Ver opções</summary>
+
+  - Trello  
+  - Jira  
+  - Asana  
+
+</details>
+
+### 📝 Elaboração de Documentos da Qualidade
+<details>
+  <summary>Ver opções</summary>
+
+  - Plano de Testes  
+  - Cenários e Casos de Teste  
+  - Relatório de Bugs  
+  - Resultados dos Testes  
+
+</details>
+
+### 🧾 Versionamento de Código
+<details>
+  <summary>Ver opções</summary>
+
+  - Noções básicas em comandos GIT  
+    - `git add`  
+    - `git commit`  
+    - `git push`  
+    - `git status`  
+    - `git diff`  
+    - `git branch`  
+
+</details>
+
+### 🔁 CI / CD (DevOps)
+<details>
+  <summary>Ver opções</summary>
+
+  - GitHub Actions  
+  - GitLab CI  
+  - Docker  
+
+</details>
+
+### 💻 Linguagens de Programação
+<details>
+  <summary>Ver opções</summary>
+
+  - Java  
+  - TypeScript  
+  - JavaScript  
+  - Python  
+
+</details>
+
+### 🗃️ Banco de Dados
+<details>
+  <summary>Ver opções</summary>
+
+  - Noções básicas em SQL para geração de massas de dados para testes  
+  - Uso da ferramenta DBeaver (bancos SQL, MySQL, PostgreSQL)  
+
+</details>
+
+---
+
+ 👨‍💻 Conhecimentos Gerais
+- Metodologias Ágeis  
+- Ferramentas de Comunicação Online  
+- Ferramentas para Testes  
+- Ferramentas para Análise Estática de Código  
+- Ferramentas para Gestão das Atividades de Teste  
+- Elaboração de Documentos da Qualidade  
+- Versionamento de Código  
+- CI / CD (DevOps)  
+- Linguagens de Programação  
+- Banco de Dados  
+
 
