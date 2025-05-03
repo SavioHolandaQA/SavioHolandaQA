@@ -28,7 +28,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### Ferramentas de Comunicação Online
 <details>
-  <summary>Ver opções</summary>
+  <summary></summary>
 
   - Microsoft Teams  
   - Google Meet  
