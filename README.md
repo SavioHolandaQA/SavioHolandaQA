@@ -1,26 +1,6 @@
 
 
 
-<h3 style="color: #0066cc;">
-  <span id="typing-text"></span>
-  <span class="cursor" style="background: #0066cc;">|</span>
-</h3>
-
-<script>
-  const text = "SavioHolandaQA";
-  const element = document.getElementById("typing-text");
-  let i = 0;
-
-  function typeWriter() {
-    if (i < text.length) {
-      element.innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 100);
-    }
-  }
-  window.onload = typeWriter;
-</script>
-
 
 𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀 
 
