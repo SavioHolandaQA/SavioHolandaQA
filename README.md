@@ -99,7 +99,8 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 <details>
   <summary>Ver </summary>
 
-  - Plano de Testes  
+  - Plano de Testes
+  - Critérios de Aceite
   - Cenários e Casos de Teste  
   - Relatório de Bugs  
   - Resultados dos Testes  
@@ -126,13 +127,14 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
   - GitHub Actions  
   - GitLab CI  
-  - Docker  
+  - Docker
+  - jenkis
 
 </details>
 
 ### 💻 Linguagens de Programação
 <details>
-  <summary>Ver opções</summary>
+  <summary>Ver </summary>
 
   - Java  
   - TypeScript  
@@ -143,7 +145,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### 🗃️ Banco de Dados
 <details>
-  <summary>Ver opções</summary>
+  <summary>Ver </summary>
 
   - Noções básicas em SQL para geração de massas de dados para testes  
   - Uso da ferramenta DBeaver (bancos SQL, MySQL, PostgreSQL)  
