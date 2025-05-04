@@ -9,7 +9,8 @@
 Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 4 anos de experiência, tendo atuado em diversos projetos inclusive de forma simultânea. Ao longo desse período, pude desenvolver habilidades de organização, priorização e adaptação a diferentes contextos e demandas, sempre com foco em qualidade, colaboração e entrega de valor.
 
 
-💻 Experiência
+💻 Experiência.
+
 Minha jornada como QA já soma mais de 04 anos, onde trabalhei:
 
 Empresa: Compasso Uol, onde fui o responsável pelo processo de qualidade em projetos de software em diversos projetos como, Vivo, Marfrig, Yamara consocios, Melissa Br e US, Brasif, Converse e Via scull e outros.
