@@ -86,17 +86,18 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### 🗂️ Ferramentas para Gestão das Atividades de Teste
 <details>
-  <summary>Ver opções</summary>
+  <summary>Ver </summary>
 
   - Trello  
   - Jira  
-  - Asana  
+  - Asana
+  - ServiceNow  
 
 </details>
 
 ### 📝 Elaboração de Documentos da Qualidade
 <details>
-  <summary>Ver opções</summary>
+  <summary>Ver </summary>
 
   - Plano de Testes  
   - Cenários e Casos de Teste  
@@ -107,7 +108,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### 🧾 Versionamento de Código
 <details>
-  <summary>Ver opções</summary>
+  <summary>Ver </summary>
 
   - Noções básicas em comandos GIT  
     - `git add`  
