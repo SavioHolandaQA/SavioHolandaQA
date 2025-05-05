@@ -192,11 +192,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   </a>
   &nbsp; &nbsp;
   
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" 
-   style="max-width: 100%">
-  </a>
-  &nbsp; &nbsp;
 
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
@@ -209,11 +204,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
    style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
-
-  <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" 
-   style="max-width: 100%">
-  </a>
   
  </h3>
  
@@ -222,12 +212,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
  <h3> Tecnologias de Back-End <p>
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
-    style="max-width: 100%">
-  </a>
-  &nbsp; &nbsp;
-
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://www.tisdigitech.com/wp-content/uploads/2024/06/PHP-bg.png" 
     style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
@@ -244,12 +228,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   </a>
    &nbsp;  &nbsp;
    
-  <a href = "">
-   <img aling= "center" heigth="40" width ="40" src = "https://wpforms.com/wp-content/uploads/cache/integrations/62a004b95946bb97541afa471dcca73a.png" 
-    style="max-width: 100%">
-  </a>
-  &nbsp;  &nbsp;
-  
   <a href = "">
    <img aling= "center" heigth="50" width ="50" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
     style="max-width: 100%">
