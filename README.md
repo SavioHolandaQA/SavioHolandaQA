@@ -169,17 +169,14 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 - Banco de Dados  
 
  <p align="center">
-  <h1>J. Sávio Holanda</h1>
+  <h1>Sávio Holanda</h1>
   </p>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
 
  
 
-  <a href = "https://www.linkedin.com/in/SavioHolandaQA/">
-    <img aling= "center" heigth="50" width ="80" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
-    style="max-width: 100%">
-  </a>
+
  
  <h3> Tecnologias de Front-End <p> 
   
