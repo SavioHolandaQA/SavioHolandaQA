@@ -176,11 +176,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   </a>
   &nbsp; &nbsp;
   
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" 
-   style="max-width: 100%">
-  </a>
-  &nbsp; &nbsp;
 
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
@@ -193,11 +188,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
    style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
-
-  <a href = "">
-   <img aling= "center" heigth="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" 
-   style="max-width: 100%">
-  </a>
   
  </h3>
  
