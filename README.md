@@ -166,7 +166,18 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
-  
+
+<a href = "">
+   <img aling= "center" heigth="25" width ="25" src = "https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" 
+    style="max-width: 100%; ">
+  </a>
+  &nbsp;  &nbsp;
+
+  <a href = "">
+   <img aling= "center" heigth="25" width ="25" src = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…AGOG4AAUACQIBFAoQQACgAARQAFABAAgKAAIChAAAAAAP/9k=" 
+    style="max-width: 100%; ">
+  </a>
+  &nbsp;  &nbsp;
   
   
   <h3> Tecnologias de Devops <p>
