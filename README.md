@@ -122,6 +122,14 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
    <img aling= "center"  heigth="30" width ="30" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
     style="max-width: 100%">
   </a>
+  &nbsp; &nbsp;
+
+
+   <a href = "">
+   <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/python-icon-512x512-88yv7xw6.png" 
+    style="max-width: 100%">
+  </a>
+  &nbsp; &nbsp;
 
    </h3>
 
