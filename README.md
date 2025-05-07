@@ -106,12 +106,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   </a>
   &nbsp; &nbsp;
   
-   
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://wpforms.com/wp-content/uploads/cache/integrations/62a004b95946bb97541afa471dcca73a.png" 
-    style="max-width: 100%">
-  </a>
-  &nbsp;  &nbsp;
   
   <a href = "">
    <img aling= "center"  heigth="30" width ="30" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
