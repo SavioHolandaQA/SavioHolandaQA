@@ -123,7 +123,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   &nbsp;  &nbsp;
 
  <a href = "">
-   <img aling= "center" heigth="25" width ="25" src = "https://www.eficode.com/hs-fs/hubfs/Eficode%202020%20site%20images/Academy/Robot%20framework@2x.png?width=300&name=Robot%20framework@2x.png" 
+   <img aling= "center" heigth="30" width ="30" src = "https://www.eficode.com/hs-fs/hubfs/Eficode%202020%20site%20images/Academy/Robot%20framework@2x.png?width=300&name=Robot%20framework@2x.png" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
