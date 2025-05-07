@@ -54,14 +54,9 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
  
  
  <h3> Tecnologias de Back-End <p>
+  
   <a href = "">
    <img aling= "center" heigth="400" width ="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" 
-    style="max-width: 100%">
-  </a>
-  &nbsp; &nbsp;
-
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://www.tisdigitech.com/wp-content/uploads/2024/06/PHP-bg.png" 
     style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
@@ -130,14 +125,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   
   
   
-   
   
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png" 
-    style="max-width: 100%">
-  </a>
- </h3>
-
   <h3> Tecnologias de Devops <p>
  
   <a href = "">
@@ -161,8 +149,8 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 ### GitHub Stats:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JS-HolandeZ&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JS-HolandeZ&theme=github_dark_blue" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SavioHolandaQA&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioHolandaQA&theme=github_dark_blue" width="48%" />
 </div>
 
 
@@ -170,13 +158,13 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ### GitHub Activity Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JS-HolandeZ&radius=16&theme=react-dark&area=true&hide_title=false&hide_border=false&order=5)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&radius=16&theme=react-dark&area=true&hide_title=false&hide_border=false&order=5)
 
  
 
 
 <p align="center">
-  <img src="https://github.com/JS-HolandeZ/JS-HolandeZ/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/SavioHolandaQA/SavioHolandaQA/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
@@ -349,8 +337,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   - Uso da ferramenta DBeaver (bancos SQL, MySQL, PostgreSQL)  
 
 </details>
----
-  
+
 
 
 
