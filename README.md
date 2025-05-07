@@ -154,29 +154,10 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 </details>
 
----
-
- 👨‍💻 Conhecimentos Gerais
-- Metodologias Ágeis  
-- Ferramentas de Comunicação Online  
-- Ferramentas para Testes  
-- Ferramentas para Análise Estática de Código  
-- Ferramentas para Gestão das Atividades de Teste  
-- Elaboração de Documentos da Qualidade  
-- Versionamento de Código  
-- CI / CD (DevOps)  
-- Linguagens de Programação  
-- Banco de Dados  
-
- <p align="center">
-  <h1>Sávio Holanda</h1>
-  </p>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
 
  
-
-
  
  <h3> Tecnologias de Front-End <p> 
   
