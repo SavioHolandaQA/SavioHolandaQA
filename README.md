@@ -117,7 +117,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   &nbsp;  &nbsp;
 
   <a href = "">
-   <img aling= "center" heigth="50" width ="50" src = "https://avatars.githubusercontent.com/u/19369327?s=48&v=4" 
+   <img aling= "center" heigth="25" width ="25" src = "https://avatars.githubusercontent.com/u/19369327?s=48&v=4" 
     style="max-width: 100%; ">
   </a>
   &nbsp;  &nbsp;
