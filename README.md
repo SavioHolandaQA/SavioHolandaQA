@@ -181,12 +181,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   
   
   <h3> Tecnologias de Devops <p>
- 
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src = "https://www.jenkins.io/images/logos/jenkins/jenkins.svg" 
-    style="max-width: 100%">
-  </a>
-  &nbsp;  &nbsp;
+
 
   <a href = "">
    <img aling= "center" heigth="40" width ="40" src = "https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" 
