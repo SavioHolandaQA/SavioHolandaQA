@@ -13,7 +13,7 @@ Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 4 a
 
 Minha jornada como QA já soma mais de 04 anos, onde trabalhei:
 
-Empresa: Compasso Uol, onde fui o responsável pelo processo de qualidade em projetos de software em diversos projetos como, Vivo, Marfrig, Yamara consocios, Melissa Br e US, Brasif, Converse e Via scull e outros.
+Empresa: Compasso Uol, atuei em diversos projetos como Vivo, Marfrig, Yamara consórcios, Melissa BR e US, Ipanema, Grendene, Brasif, Converse, Via scull, Confiança delivery, Grupo nós: Oxxo e shell SELECT.
  
 Empresa: INxus, sendo responsável pela execução de testes manuais e automatizados, além da documentação de planos de testes, cenários e casos de testes, e relatórios de testes.
 
