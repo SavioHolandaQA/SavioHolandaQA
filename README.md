@@ -153,7 +153,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   - Uso da ferramenta DBeaver (bancos SQL, MySQL, PostgreSQL)  
 
 </details>
-
+---
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
 
