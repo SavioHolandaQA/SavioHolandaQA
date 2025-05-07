@@ -122,7 +122,11 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   </a>
   &nbsp;  &nbsp;
 
+   <img aling= "center" heigth="25" width ="25" src = "" ![image](https://github.com/user-attachments/assets/ba1901bf-24d7-40d6-a237-e4d4ddfbdb49)
+
   
+  </a>
+  &nbsp;  &nbsp;
   
   
   
