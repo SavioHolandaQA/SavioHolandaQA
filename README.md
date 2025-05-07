@@ -95,7 +95,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
  <h3> Tecnologias de Back-End <p>
   
   <a href = "">
-   <img aling= "center" heigth="400" width ="40" src = "https://static-00.iconduck.com/assets.00/java-icon-512x512-kvr1nudq.png" 
+   <img aling= "center" heigth="30" width ="30" src = "https://static-00.iconduck.com/assets.00/java-icon-512x512-kvr1nudq.png" 
     style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
