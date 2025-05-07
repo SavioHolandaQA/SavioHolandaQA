@@ -190,7 +190,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   </a>
   &nbsp;  &nbsp;
 
-	 <a href = "">
+
    <img aling= "center" heigth="30" width ="30" src = "https://media.slid.es/uploads/338958/images/1496345/supertest.png" 
     style="max-width: 100%">
   </a>
