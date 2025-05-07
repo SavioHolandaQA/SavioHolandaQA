@@ -22,7 +22,46 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
   
 
- <h3> Tecnologias de Front-End <p> 
+
+### GitHub Activity Graph:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&radius=16&theme=react-dark&area=true&hide_title=false&hide_border=false&order=5)
+
+ 
+
+
+<p align="center">
+  <img src="https://github.com/SavioHolandaQA/SavioHolandaQA/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/523e198db91e59fcb95fedd872dc9e957e4cc09d07ed65167e7b559bb1f5d2d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343037396138266865696768743d3132302673656374696f6e3d666f6f746572" alt="Wave footer" />
+</p>
+
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+<br>
+
+
+
+
+
+
+
+
+ 
+ </h3>
+
+ 
+  <h3> Tecnologias de Front-End <p> 
   
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" 
@@ -158,47 +197,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 </div>
 
 
-
-
-### GitHub Activity Graph:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&radius=16&theme=react-dark&area=true&hide_title=false&hide_border=false&order=5)
-
- 
-
-
-<p align="center">
-  <img src="https://github.com/SavioHolandaQA/SavioHolandaQA/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/523e198db91e59fcb95fedd872dc9e957e4cc09d07ed65167e7b559bb1f5d2d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343037396138266865696768743d3132302673656374696f6e3d666f6f746572" alt="Wave footer" />
-</p>
-
- 
- 
-  
-  
-  
- 
- 
- 
-<br>
-
-
-
-
-
-
-
-
- 
- </h3>
-
- 
- 
  
  
  <h3> Tecnologias de Testes <p>
