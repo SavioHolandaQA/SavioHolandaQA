@@ -60,11 +60,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
  
   <h3> Tecnologias de Front-End <p> 
   
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" 
-   style="max-width: 100%">
-  </a>
-  &nbsp; &nbsp;
   
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" 
@@ -96,13 +91,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
     style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
-  
-  <a href = "">
-   <img aling= "center" heigth="30" width ="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/120px-Typescript_logo_2020.svg.png" 
-   style="max-width: 100%">
-  </a>
-  &nbsp; &nbsp;
-  
   
   <a href = "">
    <img aling= "center"  heigth="30" width ="30" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
