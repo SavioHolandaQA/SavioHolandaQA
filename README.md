@@ -31,10 +31,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHolandaQA&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/PriyanshK09)
  
 
-### 🛠️ QA & Frameworks  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)  
+![My Skills](https://skillicons.dev/icons?i=selenium,pytest,postman,py,django)
 
 
 
