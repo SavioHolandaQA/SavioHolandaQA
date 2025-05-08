@@ -22,8 +22,9 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
   
 
+### GitHub Activity Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&radius=16&theme=github-compact&area=true&hide_title=false&hide_border=false&order=5)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&radius=16&theme=react-dark&area=true&hide_title=false&hide_border=false&order=5)
 
 
 
