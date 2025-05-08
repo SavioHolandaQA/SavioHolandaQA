@@ -30,8 +30,8 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 ## 📊 Atividade no GitHub
 
 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&theme=tokyo-night&area=true&hide_title=false&hide_border=false&radius=16)
+
 
  
 
