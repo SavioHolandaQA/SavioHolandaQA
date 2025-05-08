@@ -18,9 +18,10 @@ Empresa: Compasso Uol, atuei em diversos projetos como Vivo, Marfrig, Yamara con
 Empresa: INxus, sendo responsável pela execução de testes manuais e automatizados, além da documentação de planos de testes, cenários e casos de testes, e relatórios de testes.
 
 
- 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C5F7&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
+
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Quality+Assurance+%7C+Test+Automation+%7C+QA+Tester)](https://git.io/typing-svg)
+
 
 
 ### GitHub Activity Graph:
@@ -28,9 +29,9 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 ## 📊 Atividade no GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&theme=react-dark&area=true&hide_title=false&hide_border=false&radius=16)
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioHolandaQA&theme=tokyo-night&area=true&hide_title=false&hide_border=false&radius=16)
 
  
 
