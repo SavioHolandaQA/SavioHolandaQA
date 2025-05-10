@@ -309,6 +309,13 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
     - `git status`  
     - `git diff`  
     - `git branch`  
+    - `git remote -v`
+    - `git branch`
+    - `git clone`  
+    - `git remote set-url origin`
+    - `git  git checkout -b`
+   
+
 
 </details>
 
