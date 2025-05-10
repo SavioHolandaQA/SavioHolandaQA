@@ -89,7 +89,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   &nbsp; &nbsp;
   
   <a href = "">
-   <img aling= "center"  heigth="30" width ="30" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
+   <img aling= "center"  heigth="25" width ="25" src = "https://www.w3schools.in/wp-content/uploads/mongodb-logo.png" 
     style="max-width: 100%">
   </a>
   &nbsp; &nbsp;
