@@ -33,22 +33,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   <img src="https://camo.githubusercontent.com/523e198db91e59fcb95fedd872dc9e957e4cc09d07ed65167e7b559bb1f5d2d3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343037396138266865696768743d3132302673656374696f6e3d666f6f746572" alt="Wave footer" />
 </p>
 
- ### ✨ 3D Contributions (Night View)
-
-<a target="_blank" rel="noopener noreferrer nofollow"
-   href="https://github-profile-3d-contrib.vercel.app/api?username=SavioHolandaQA&theme=night">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=SavioHolandaQA&theme=night"
-       alt="3D GitHub Contributions" style="max-width: 100%;" />
-</a>
-
-
-
-### ✨ 3D Contributions (Night View)
-
-<a href="https://github.com/SavioHolandaQA"> 
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=SavioHolandaQA&theme=night" alt="3D GitHub Contributions" />
-</a>
-
  
  
 <br>
