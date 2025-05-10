@@ -36,9 +36,13 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
  
  
   
-  
-  
- 
+
+
+## 📊 GitHub 3D Contribution (Versão Noturna)
+
+[![3D GitHub Profile](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+
+
  
  
 <br>
