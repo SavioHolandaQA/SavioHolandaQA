@@ -257,7 +257,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 
 
-
 </details>
 
 ### 🧹 Ferramentas para Análise Estática de Código
