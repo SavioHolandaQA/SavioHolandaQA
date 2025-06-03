@@ -36,7 +36,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
  
   <h3> Tecnologias de Front-End <p> 
   
-
   
   <a href = "">
    <img aling= "center" heigth="30" width ="30" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" 
