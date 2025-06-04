@@ -303,7 +303,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   - GitHub Actions  
   - GitLab CI  
   - Docker
-  - Bitbucket
+
 
 </details>
 
