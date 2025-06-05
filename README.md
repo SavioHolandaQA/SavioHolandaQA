@@ -11,7 +11,7 @@ Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 4 a
 
 💻 Experiência.
 
-Minha jornada como QA já soma mais de 04 anos, onde trabalhei:
+ Onde trabalhei:
 
 Empresa: Compasso Uol, atuei em diversos projetos como Vivo, Marfrig, Yamara consórcios, Melissa BR e US, Ipanema, Grendene, Brasif, Converse, Via scull, Confiança delivery, Grupo nós: Oxxo e shell SELECT.
  
