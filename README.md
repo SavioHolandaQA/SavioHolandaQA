@@ -244,7 +244,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 <details>
   <summary>Ver opções</summary>
 
-  - SonarQube Em estudo  
+  - SonarQube em estudo  
 
 </details>
 
