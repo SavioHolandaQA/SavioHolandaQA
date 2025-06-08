@@ -254,8 +254,9 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
   - Trello  
   - Jira  
-  - Asana
-  - ServiceNow  
+  - Octane
+  - ServiceNow
+  - Confluence 
 
 </details>
 
