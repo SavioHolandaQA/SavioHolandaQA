@@ -213,8 +213,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   - BrowserStack  
   - JMeter  
   - K6  
-  - Postman  
-  - Hoppscotch  
+  - Postman    
   - Insomnia  
   - SuperTest    
   - Rest Assured
