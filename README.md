@@ -124,7 +124,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   &nbsp;  &nbsp;
 
  
-
  <a href = "">
    <img aling= "center" heigth="25" width ="25" src = "https://static-00.iconduck.com/assets.00/browserstack-icon-256x255-fuozzrzb.png" 
     style="max-width: 100%">
