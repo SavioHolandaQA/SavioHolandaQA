@@ -135,7 +135,7 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
     style="max-width: 100%">
   </a>
   &nbsp;  &nbsp;
-
+  
  <a href = "">
    <img aling= "center" heigth="30" width ="30" src = "https://media.slid.es/uploads/338958/images/1496345/supertest.png" 
     style="max-width: 100%">
@@ -168,7 +168,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   <img src="https://github-readme-stats.vercel.app/api?username=SavioHolandaQA&show_icons=true&theme=github_dark" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioHolandaQA&theme=github_dark_blue" width="48%" />
 </div>
-
 
  
  
