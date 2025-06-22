@@ -75,8 +75,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   &nbsp; &nbsp;
 
    </h3>
-
-
  
  <h3> Tecnologias de Testes <p>
  
