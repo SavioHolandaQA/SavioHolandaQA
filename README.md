@@ -7,7 +7,6 @@
 
 Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 4 anos de experiência, tendo atuado em diversos projetos inclusive de forma simultânea. Ao longo desse período, pude desenvolver habilidades de organização, priorização e adaptação a diferentes contextos e demandas, sempre com foco em qualidade, colaboração e entrega de valor.
 
-
 💻 Experiência.
 
  Onde trabalhei:
