@@ -139,8 +139,6 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 
 
 
-
-
   <h3> Tecnologias de Devops <p>
 
   <a href = "">
