@@ -193,12 +193,10 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   - Selenium WebDriver  
   - Cypress  
   - Playwright  
-  - Robot Framework  
   - Maven  
   - Cucumber  
   - BrowserStack  
-  - JMeter  
-  - K6  
+  - JMeter    
   - Postman    
   - Insomnia  
   - SuperTest    
@@ -210,6 +208,8 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   -- Web 🖥️
   - TestCafé  
   - CodeceptJS
+  - Robot Framework
+   
 
   -- API  
   - Wiremock
