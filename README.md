@@ -10,7 +10,7 @@ Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 4 a
 
 Empresa: MJV Technology & Innovation, estou atuando no peojeto Bradesco       .
 
-Empresa: Compasso Uol, atuei em diversos projetos como Vivo, Marfrig, Yamara consórcios, Melissa BR e US, Ipanema, Grendene, Brasif, Converse, Via scull, Confiança delivery, Grupo nós: Oxxo e shell SELECT.
+Empresa: Compasso Uol, atuei em diversos projetos como Vivo, Marfrig, Yamara consórcios, Grendene, Converse, Grupo nós: Oxxo e shell SELECT.
  
 Empresa: INxus, sendo responsável pela execução de testes manuais e automatizados, além da documentação de planos de testes, cenários e casos de testes e relatórios de testes.
 
