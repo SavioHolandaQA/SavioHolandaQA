@@ -307,7 +307,18 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
   <summary>Ver </summary>
 
   - Noções básicas em SQL para geração de massas de dados para testes  
-  - Uso da ferramenta DBeaver (bancos SQL, MySQL, PostgreSQL)  
+  - Uso da ferramenta DBeaver (bancos SQL, MySQL, PostgreSQL)
+    
+  - SELECT * FROM clientes;
+  - SELECT nome, email FROM clientes;
+  - SELECT * FROM clientes WHERE cidade = 'SP';
+  - SELECT * FROM clientes ORDER BY nome ASC;
+  - SELECT * FROM produtos LIMIT 10;
+  - INSERT INTO clientes (nome, email) VALUES ('QA', 'QA@email');
+  - UPDATE clientes SET cidade = 'Recife' WHERE id = 5;
+  - DELETE FROM clientes WHERE id = 8;
+  - SELECT COUNT(*) FROM clientes;
+  - SELECT MAX(valor), MIN(valor) FROM pedidos;
 
 </details>
 
