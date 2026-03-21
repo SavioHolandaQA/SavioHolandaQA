@@ -8,7 +8,7 @@ Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 4 a
  
 💻 Experiência.
 
-Empresa atual: EDX - Digital Experience: Projeto do BNB - Banco do Nordeste.
+Empresa atual: EDX - Digital Experience: Projeto BNB - Banco do Nordeste.
 
 Empresa: MJV Technology & Innovation, atuei no peojeto Bradesco.
 
