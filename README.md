@@ -284,10 +284,9 @@ Empresa: INxus, sendo responsável pela execução de testes manuais e automatiz
 <details>
   <summary>Ver opções</summary>
 
-  - GitHub Actions  
-  - GitLab CI  
-  - Docker
-  - Bitbucket 
+  - GitHub Actions
+  - Bitbucket   
+  - Docker em estudo
   - Jenkins em estudo 
 
 
