@@ -8,11 +8,15 @@ Sou um profissional da qualidade e testes de software (𝐐𝐀) com mais de 5 a
   
 💻 Experiência.
 
-Empresa atual: EDX - Digital Experience: Projeto BNB - Banco do Nordeste.
+Empresa: EDX - Digital Experience, no projeto Banco do Nordeste 
+Utilização de ServiceNow e portal BNB.
+Atuação com Workspace, SLA, Case e CSM
+Acompanhamento e gestão de chamados e fluxos de atendimento.
+
 
 Empresa: MJV Technology & Innovation, atuei no peojeto Bradesco.
 
-Empresa: Compasso Uol, atuei em diversos projetos como Vivo, Marfrig, Yamara consórcios, Grendene, Brasif e Converse 
+Empresa: Compasso Uol, atuei em diversos projetos como Vivo, Marfrig, Yamara consórcios, Grendene, e Converse 
  
 Empresa: INxus, sendo responsável pela execução de testes manuais e automatizados, além da documentação de planos de testes, cenários e casos de testes e relatórios de testes.
 
